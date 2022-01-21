@@ -1,0 +1,16 @@
+ 
+{
+  "attributes": [
+    {
+      "trait_type": "source",
+      "value": "eternalised"
+    },
+    {
+      "trait_type": "name",
+      "value": "some victorian art"
+    }
+  ],
+  "description": "A really cool painting",
+  "image": "https://gateway.pinata.cloud/ipfs/QmV9cE7xxe1rrB4wbAivYSssBa9HSCzzZrsuYpEckJZd5p",
+  "name": "some victorian art"
+}

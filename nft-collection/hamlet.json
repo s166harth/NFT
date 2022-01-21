@@ -1,0 +1,17 @@
+ 
+
+{
+  "attributes": [
+    {
+      "trait_type": "source",
+      "value": "hamlet"
+    },
+    {
+      "trait_type": "name",
+      "value": "hamlet skull"
+    }
+  ],
+  "description": "A really cool painting",
+  "image": "https://gateway.pinata.cloud/ipfs/QmV9cE7xxe1rrB4wbAivYSssBa9HSCzzZrsuYpEckJZd5p",
+  "name": "some victorian art"
+}
